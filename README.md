@@ -19,6 +19,8 @@ Este proyecto es una aplicación fullstack para gestión de usuarios, desarrolla
 - Autenticación con JWT
 - Todas las operaciones CRUD
 - Logout
+- Rutas
+- Consumo de API con fetch
 
 
 ## Backend
