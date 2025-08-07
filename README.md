@@ -1,4 +1,4 @@
-# Control de Usuarios - CRUD)
+# Control de Usuarios - CRUD
 
 Este proyecto es una aplicación fullstack para gestión de usuarios, desarrollada con:
 
